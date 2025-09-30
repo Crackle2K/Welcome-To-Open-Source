@@ -22,5 +22,15 @@ Thank you to all of these wonderful people who have contributed towards the proj
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/OriginalPuppeteer">
+                    <img src="https://avatars.githubusercontent.com/u/77132120?v=4" width="100px;"
+                        alt="Original Puppeteer" />
+                    <br />
+                    <sub>
+                        <b>Original Puppeteer</b>
+                    </sub>
+                </a>
+            </td>
       </tbody>
 </table>
