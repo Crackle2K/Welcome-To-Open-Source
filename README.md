@@ -30,7 +30,7 @@ Thank you to all of these wonderful people who have contributed towards the proj
                         alt="David Wei" />
                     <br />
                     <sub>
-                        <b>Original Puppeteer</b>
+                        <b>David Wei</b>
                     </sub>
                 </a>
             </td>
