@@ -6,6 +6,8 @@ Follow these rules to have your pull request accepted:
 - Follow the format of this project carefully!
 - Star this repository! ⭐
 
+[Here are some steps to learn how to contribute to this repository!](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+
 # Contributors
 Thank you to all of these wonderful people who have contributed towards the project!
 
