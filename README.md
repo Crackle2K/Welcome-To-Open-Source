@@ -25,8 +25,18 @@ Thank you to all of these wonderful people who have contributed towards the proj
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/David Wei">
-                    <img src="" width="100px;"
+                <a href="https://github.com/OriginalPuppeteer">
+                    <img src="https://avatars.githubusercontent.com/u/77132120?v=4" width="100px;"
+                        alt="Original Puppeteer" />
+                    <br />
+                    <sub>
+                        <b>Original Puppeteer</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
+                <a href="https://github.com/N-U-11">
+                    <img src="https://avatars.githubusercontent.com/u/190890620?v=4" width="100px;"
                         alt="David Wei" />
                     <br />
                     <sub>
