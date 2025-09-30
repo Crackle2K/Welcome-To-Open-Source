@@ -25,12 +25,12 @@ Thank you to all of these wonderful people who have contributed towards the proj
                 </a>
             </td>
         <td align="center">
-                <a href="https://github.com/OriginalPuppeteer">
-                    <img src="https://avatars.githubusercontent.com/u/77132120?v=4" width="100px;"
-                        alt="Original Puppeteer" />
+                <a href="https://github.com/David Wei">
+                    <img src="" width="100px;"
+                        alt="David Wei" />
                     <br />
                     <sub>
-                        <b>Original Puppeteer</b>
+                        <b>David Wei</b>
                     </sub>
                 </a>
             </td>
